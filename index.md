@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
 ## Gopakumar Gopinathan's ML journey
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Hello and welcome to this blog. 
+
+I am going to start with my experience deploying a machine learning model from end-to-end. 
+
+You can access the app that I created from here:
+[Gopakumar's Car Price Prediction App](https://indian-car-price-prediction.herokuapp.com/)
+
+Also checkout the full github link for the [files](https://github.com/gkumarg/carpricepredictions).
