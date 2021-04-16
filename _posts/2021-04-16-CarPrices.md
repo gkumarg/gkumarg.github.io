@@ -1,7 +1,7 @@
-# Car Prices
+# Car Price Prediction
 End to End deployment of ML model to predict car prices for a dataset from Kaggle.
 
-Steps in Jupyter notebook:
+### Steps in Jupyter notebook:
 1. Downloaded kaggle dataset.
 2. Conducted exploratory data analysis on the dataset.
 3. Looked for duplicates, missing data, outliers etc.
